@@ -1,3 +1,3 @@
-print("Test")
-
-exit(1)
+def main():
+    print("Test")
+    exit(1)

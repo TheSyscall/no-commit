@@ -3,3 +3,4 @@
   description: prevents files containing "no-commit" from being committed.
   entry: no-commit
   stages: [pre-commit]
+  language: python
